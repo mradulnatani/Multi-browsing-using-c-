@@ -1,8 +1,8 @@
 //#include<bits/stdc++.h>
 #include<string>
 #include<vector>
-#include <cstdlib>
-#include <thread>
+#include<cstdlib>
+#include<thread>
 using namespace std;
 void open_url(const string& url) {
     string command = "start " + url;
